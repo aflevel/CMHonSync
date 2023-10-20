@@ -7,4 +7,4 @@ Conducts Cochran-Mantel-Haenszel
 -scipy
 
 # Usage
-<code>python CMHonSync.py Test.sync TestPheno.csv<\code>
+<code>python CMHonSync.py Test.sync TestPheno.csv
